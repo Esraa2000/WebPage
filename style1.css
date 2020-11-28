@@ -1,3 +1,4 @@
+@media all{
 body {
 
   background-image: url("https://i.pinimg.com/564x/2e/65/48/2e65483ac7eb3907638c0df7a7b0c9aa.jpg");
@@ -9,11 +10,12 @@ body {
   background-color: #cccccc;
   background-size:cover;
   
-}
+}}
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@300&display=swap');
 
 	@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
 	@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+	@media all{
 h1{
 	
 background-color:gray;
@@ -25,7 +27,8 @@ border:50px solid gray;
 width:4px;
 
  
-}
+}}
+@media all{
 h2{
 	
 	color:wait;
@@ -37,18 +40,21 @@ border:solid 5px gray;
 #padding: 15px;
 #padding-top:50px;
 margin:50px 70px 30px 0px;
-}
+}}
+@media all{
 ul{
 background: rgba(255,255,255,0.4);
 height:55px;
 width:100%;
 position:relative;
-}
+}}
+@media all{
  ul{list-style: none;}
 ul li{
 float: right;
 position: relative;
-}
+}}
+@media all{
 ul li {
 color:white;
 line-height: 55px;
@@ -61,32 +67,38 @@ display: block;
 text-decoration:none;
 font-weight:bold;
 -moz-transition:all .3s ease-in-out;-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out;
-}
-
+}}
+@media all{
 ul li:hover{
 color:#000;
-}
+}}
+@media all{
 img{
 float:right;clear:right;margin-left:20px;
-}
+}}
+@media all{
 h3{
 	color:black;
 	font-size:80px;
 	font-family: 'Yeseva One', cursive;
-}
+}}
+@media all{
 #wrap{
 	margin:0 auto;
 text-align:left;
-}
+}}
+@media all{
 #npara{
 	
 	height:350px;
 	padding:50px;
 	margin:50px 30px 30px 0px;
-}
+}}
+@media all{
 .redColor{
 	color: red;
-}
+}}
+@media all{
 .text_para{
 	
 	background:rgba(255,255,255,0.4);
@@ -95,5 +107,4 @@ text-align:left;
 font-family: 'Architects Daughter', cursive;
 position:relative;
 margin:50px 30px 30px 0px;
-}
-	
+}}
