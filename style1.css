@@ -3,7 +3,7 @@ body {
 
   background-image: url("https://i.pinimg.com/564x/2e/65/48/2e65483ac7eb3907638c0df7a7b0c9aa.jpg");
   background-position: center;
-  padding-left:350px;
+  padding-left:100px;
   
   background-repeat: no-repeat;
   background-attachment:fixed;
@@ -107,4 +107,17 @@ text-align:left;
 font-family: 'Architects Daughter', cursive;
 position:relative;
 margin:50px 30px 30px 0px;
+}
+@media all{
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:rgba(255,255,255,0.4) ;
+   color: white;
+   text-align: center;
+}
 }}
+}
