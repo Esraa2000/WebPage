@@ -11,10 +11,7 @@ body {
   background-size:cover;
   
 }}
-@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@300&display=swap');
 
-	@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
-	@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
 	@media all{
 h1{
 	
@@ -31,11 +28,11 @@ width:4px;
 @media all{
 h2{
 	
-	color:wait;
+	color:white;
 	font-size:24px;
 	font-family:tahoma;
 	font-style:italic;
-widows:500px;
+width:500px;
 border:solid 5px gray;
 
 margin:50px 70px 30px 0px;
